@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 img {
-    text-align: center
+     align-items: center;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
