@@ -3,7 +3,7 @@ html {
     background: linear-gradient(50deg, #cccccc 0%, #333333 100%);
 }
 body {
- 
+ background: url('https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-1/01/background.jpg') center center;
     /*height: 100%;
     /*background: linear-gradient(45deg, #00ff00 0%, #33ccff 100%);
     /* FF3.6-15*/
