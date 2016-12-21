@@ -1,9 +1,6 @@
-h1{
+body{
   color: White;
   text-align: center;
   border-style: inset;
   border-width: 3px;
-}
-body{
-  text-align: center;
 }
