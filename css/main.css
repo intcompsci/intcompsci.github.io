@@ -1,9 +1,8 @@
 body{
-  color: White;
   text-align: center;
-  border-style: inset;
-  border-width: 3px;
+  color: White;
 }
 h1{
-text-align: center;
+  text-align: center;
+  color: White;
 }
