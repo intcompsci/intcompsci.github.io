@@ -4,3 +4,6 @@ body{
   border-style: inset;
   border-width: 3px;
 }
+h1{
+text-align: center;
+}
