@@ -3,6 +3,6 @@ h1{
   color: red;
 }
 body{
-  background-image:("res/background.png");
+  background-image:url("res/background.png");
   
 }
