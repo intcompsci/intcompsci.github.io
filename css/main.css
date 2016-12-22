@@ -24,3 +24,7 @@ div{
    margin-left: 50px;
    background-color: white;
 }
+
+img{
+border: 2px solid black;
+}
