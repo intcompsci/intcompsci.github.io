@@ -1,9 +1,11 @@
 h1{
-  font-size: 54px;
-  color: red;
+  font-size: 60px;
+  color: white;
 }
 
 body{
+  font-size: 20px;
+  color: white;
   background-image: url('../res/background.png');
   background-repeat: no-repeat;
 }
