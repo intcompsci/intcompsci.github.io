@@ -51,3 +51,10 @@ img{
 .pills {
   background-color: #cccccc;
 }
+
+div.image{
+  margin-top: 0px;
+  margin-bottom: 100px;
+  margin-left: 100px;
+  margin-right: 1px;
+}
